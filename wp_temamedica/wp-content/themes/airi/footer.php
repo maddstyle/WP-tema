@@ -22,13 +22,7 @@
 
 	<?php get_sidebar( 'footer' ); ?>
 
-	<footer id="colophon" class="site-footer">
-		<div class="container">
-			<div class="row">
-				<?php do_action( 'airi_footer' ); ?>
-			</div>
-		</div>
-	</footer><!-- #colophon -->
+	
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
